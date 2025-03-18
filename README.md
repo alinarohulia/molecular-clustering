@@ -24,11 +24,13 @@ Certain modifications may be required to tailor the code to specific datasets.
 - **[`feature_clustering_1.py`](code/feature_clustering_1.py), [`feature_clustering_2.py`](feature_clustering_2.py):**  
   *Adjust clustering parameters based on molecular dataset requirements.*  
   ![Feature Clustering Code Mol Block](images/feature_clusters_generation_code_change_1.png)
-  ![Feature Clustering Code File Location](images/feature_clusters_generation_code_change_2.png)  
+  ![Feature Clustering Code File Location](images/feature_clusters_generation_code_change_2.png)
+  ![Feature Clustering Code Threshold](images/feature_clusters_generation_code_change_3.png) 
 
 - **[`fragment_clustering.py`](code/fragment_clustering.py):**  
   *Modify input and output file locations.*  
-  ![Fragment Clustering Code File Location](images/fragment_clusters_generation_code_change.png)  
+  ![Fragment Clustering Code File Location](images/fragment_clusters_generation_code_change.png)
+  ![Fragment Clustering Code Threshold](images/fragment_clusters_generation_code_change_1.png) 
 
 ---
 
