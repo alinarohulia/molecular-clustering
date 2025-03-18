@@ -1,7 +1,7 @@
 # Molecular Clustering Using RDKit Butina Module  
 
 ## Project Description  
-This project provides Python code to cluster features and fragments of a given molecular structure.  
+This project provides Python code to cluster features (by their type and distance) and fragments (by distance between centroids) of a given molecular structure.
 
 **Required Input:**  
 A `.sdf` file containing molecular blocks with 3D coordinates.
@@ -50,6 +50,7 @@ Below are the expected outputs from the scripts:
 ---
 
 ## References  
+- **In silico fragment-based discovery of CIB1-directed anti-tumor agents by FRASE-bot:** [Paper](https://www.nature.com/articles/s41467-024-49892-9)  
 - **Chemical Features in RDKit:** [RDKit Documentation](https://www.rdkit.org/docs/GettingStartedInPython.html#chemical-features-and-pharmacophores)  
 - **Butina Clustering in RDKit:** [RDKit Butina Module](https://www.rdkit.org/docs/source/rdkit.ML.Cluster.Butina.html)  
 - **Maestro Schrödinger:** [Schrödinger Maestro](https://www.schrodinger.com/platform/products/maestro/)  
