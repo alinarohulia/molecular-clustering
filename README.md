@@ -4,7 +4,8 @@
 This project provides Python code to cluster features and fragments of a given molecular structure.  
 
 **Required Input:**  
-A `.sdf` file containing molecular blocks with 3D coordinates.  
+A `.sdf` file containing molecular blocks with 3D coordinates.
+![Mol Block](images/mol_block_example.png)
 
 **Proposed Clustering Methods:**  
 - **Feature Clustering (Including Singletons):** [`feature_clustering_1.py`](code/feature_clustering_1.py)  
